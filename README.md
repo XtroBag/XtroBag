@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xtrobag" alt="xtrobag" /></a> </p>
 
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/929830815699984475)](https://discord.com/users/929830815699984475)
+
 - 🔭 I’m currently working on [Voxility](https://github.com/XtroBag/Voxility)
 
 - 🌱 I’m currently learning **JavaScript**
